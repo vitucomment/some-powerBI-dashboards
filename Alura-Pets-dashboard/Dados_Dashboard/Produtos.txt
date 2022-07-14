@@ -1,0 +1,41 @@
+	ID Produto	Nome produto	Categoria	Marca	Valor	Url img
+1	Ração filhote 1kg	Alimento	Gatito	R$ 21,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Ra%C3%A7%C3%A3o%20filhote%20Gatito.png
+2	Ração adulto 1kg	Alimento	Gatito	R$ 24,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Ra%C3%A7%C3%A3o%20adulto%20Gatito.png
+3	Ração sênior 1kg	Alimento	Gatito	R$ 27,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Ra%C3%A7%C3%A3o%20s%C3%AAnior%20Gatito.png
+4	Petisco	Alimento	Gatito	R$ 6,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Petisco%20Gatito.png
+5	Ratinho	Brinquedo	Gatito	R$ 7,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Rato%20Gatito.png
+6	Varinha	Brinquedo	Gatito	R$ 20,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Varinha%20Gatito.png
+7	Roupa de inverno	Roupa	Gatito	R$ 60,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Roupa%20de%20inverno%20Gatito.png
+8	Roupa de verão	Roupa	Gatito	R$ 45,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Roupa%20de%20ver%C3%A3o%20Gatito.png
+9	Coleira	Acessório	Gatito	R$ 30,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Coleira%20Gatito.png
+10	Guia	Acessório	Gatito	R$ 70,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Guia%20Gatito.png
+11	Ração filhote 1kg	Alimento	Doguito	R$ 42,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Ra%C3%A7%C3%A3o%20filhote%20Doguito.png
+12	Ração adulto 1kg	Alimento	Doguito	R$ 46,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Ra%C3%A7%C3%A3o%20adulto%20Doguito.png
+13	Ração sênior 1kg	Alimento	Doguito	R$ 50,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Ra%C3%A7%C3%A3o%20senior%20Doguito.png
+14	Petisco	Alimento	Doguito	R$ 2,50	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Petisco%20Doguito.png
+15	Bolinha	Brinquedo	Doguito	R$ 7,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Bola%20Doguito.png
+16	Osso	Brinquedo	Doguito	R$ 25,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Osso%20Doguito.png
+17	Roupa de inverno	Roupa	Doguito	R$ 60,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Roupa%20de%20inverno%20Doguito.png
+18	Roupa de verão	Roupa	Doguito	R$ 45,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Roupa%20de%20ver%C3%A3o%20Doguito.png
+19	Coleira	Acessório	Doguito	R$ 40,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Coleira%20Doguito.png
+20	Guia	Acessório	Doguito	R$ 80,00	
+https://caelum-online-public.s3.amazonaws.com/2252-power-bi/01/Guia%20Doguito.png
